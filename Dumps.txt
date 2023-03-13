@@ -1,2 +1,3 @@
 Eigen vectors used in PCA     https://drive.google.com/file/d/1KbbUiMA2NEMqccJ4W7YIhZUB932n-giW/view?usp=share_link
 Eigen values used in PCA      https://drive.google.com/file/d/1-4fABbDSkcDpC5APxkJ0z9kn8wPqNXBj/view?usp=share_link
+Dataset3                      https://drive.google.com/drive/folders/1k8L7w_WNSMRLFBEEZcADhGAmsCZOFa9H?usp=sharing
