@@ -18,5 +18,6 @@ Then we downloaded some non face images like airplanes, animals and birds to be 
 
 but dueto the nature of the dataset we had some failure and success cases as shown:
 ![image](images/3.jpg)
+
 As we increase the size of the dataset the higher the accuracy we were able to obtain
 ![image](images/2.jpg)
